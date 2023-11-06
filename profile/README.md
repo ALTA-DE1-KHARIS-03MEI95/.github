@@ -22,11 +22,11 @@
 
 - [Object-Oriented-Programming](https://github.com/ALTA-DE1-KHARIS-03MEI95/Object-Oriented-Programming)
 
-**📙 RESTful API**
+**💡 RESTful API**
 
 - [Intro-To-REST](https://github.com/ALTA-DE1-KHARIS-03MEI95/Intro-To-REST)
 
-**📙 Docker**
+**🌐 Docker**
 
 - [Docker](https://github.com/ALTA-DE1-KHARIS-03MEI95/Docker)
 
@@ -34,10 +34,10 @@
 
 - [Fundamental-DE](https://github.com/ALTA-DE1-KHARIS-03MEI95/Fundamental-DE)
 
-**📙 Datawarehouse**
+**📚 Datawarehouse**
 
 - [Datawarehouse](https://github.com/ALTA-DE1-KHARIS-03MEI95/Datawarehouse)
 
-**📙 Data Ingestion**
+**📚 Data Ingestion**
 
 - [Data Ingestion](https://github.com/ALTA-DE1-KHARIS-03MEI95/Ingestion-Data)
