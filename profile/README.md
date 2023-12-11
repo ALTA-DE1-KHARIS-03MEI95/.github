@@ -49,3 +49,11 @@
 **💾 Airflow**
 
 - [Airflow](https://github.com/ALTA-DE1-KHARIS-03MEI95/airflow-data)
+
+**📊 Extract Load Demo**
+
+- [Extract Load Demo](https://github.com/ALTA-DE1-KHARIS-03MEI95/extract-load-demo)
+
+**☁️ Streaming Platform**
+
+- [Streaming Platform](https://github.com/ALTA-DE1-KHARIS-03MEI95/streaming-platform)
